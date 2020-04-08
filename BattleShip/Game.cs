@@ -19,7 +19,7 @@ namespace BattleShip
         // Constructor
         public Game()
         {
-           
+            gameOver = false;
         }
         // Member Methods
 
